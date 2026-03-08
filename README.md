@@ -1,4 +1,4 @@
-Emoji Rush
+##Emoji Rush
 
 Emoji Rush is a fast-paced path-finding game where players navigate through challenging paths. The game features unlimited levels, each increasing in difficulty, testing your problem-solving and strategic planning skills.
 
@@ -10,19 +10,19 @@ Simple Controls : Move your character using the four arrow keys.
 
 Interactive Demo : Demonstrates core mechanics and gameplay flow.
 
-Gameplay
+##Gameplay
 
 Players control a character navigating a path filled with obstacles. Success depends on choosing the correct route to reach the goal. Each level introduces new challenges, and the game continues indefinitely with unlimited levels.
 
-Demo Video
+##Demo Video
 
 Watch the gameplay demonstration: (https://youtube.com/shorts/J-sU3JV6gaI?feature=share)
 
-Installation & Running Locally
+##Installation & Running Locally
 
 Clone the repository:
 
-git clone https://github.com/yourusername/emoji-rush.git
+git clone https://github.com/nimrahpunjwani/emoji-rush.git
 
 Navigate to the project directory:
 
@@ -32,11 +32,11 @@ Open and run the game in python jupyter notebook.
 
 Use the arrow keys to move your character through the path and complete levels.
 
-Controls
+##Controls
 
 Arrow Keys – Move the character up, down, left, or right.
 
-Contributing
+##Contributing
 
 Contributions are welcome. You can help by:
 
