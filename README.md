@@ -60,5 +60,3 @@ Contributions are welcome. You can help by:
 Please **fork the repository** and submit a **pull request** for review.
 
 ---
-
-If you want, I can also make a **YouTube version even shorter and punchy**, optimized for attracting viewers quickly while keeping it professional. Do you want me to do that?
