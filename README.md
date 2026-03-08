@@ -16,7 +16,7 @@ Players control a character navigating a path filled with obstacles. Success dep
 
 ##Demo Video
 
-Watch the gameplay demonstration: (https://youtube.com/shorts/J-sU3JV6gaI?feature=share)
+Watch the gameplay demonstration: (https://youtube.com/shorts/eUywoq3txBc?feature=share)
 
 ##Installation & Running Locally
 
