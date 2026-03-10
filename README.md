@@ -1,4 +1,4 @@
-## Emoji Rush
+## Emoji Rush just another 2D game
 
 **Emoji Rush** is a fast-paced **path-finding game** where players navigate through challenging paths. The game features **unlimited levels**, each increasing in difficulty, testing your **problem-solving** and **strategic planning** skills.
 
